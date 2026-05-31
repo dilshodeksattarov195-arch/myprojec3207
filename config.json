@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruarse",
+        "uuid": 2713122,
+        "checksum": "mguqpa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
